@@ -6,6 +6,7 @@
   * [成果說明](#SEO評分成果(球來就打)：93分)
 * [視覺化解析-空汙數據分析與成果網站架設](#視覺化解析-空汙數據分析與成果網站架設)
   * 網站成果連結：[按這裡](https://chinghsuan.github.io/www/index.html)
+  * 成果說明報告：[按這裡](https://drive.google.com/file/d/1VGeJST9JHMGq-yDh5qPebTqRmCJcSMPI/view?usp=sharing)
   
 ## SEO搜尋引擎最佳化-網站架設
 ### 網站成果連結：https://chinghsuan.github.io/travel/Taiwan.html
@@ -17,3 +18,4 @@
 
 ## 視覺化解析-空汙數據分析與成果網站架設
 ### **網站成果連結**：https://chinghsuan.github.io/www/index.html
+### 成果說明報告：https://drive.google.com/file/d/1VGeJST9JHMGq-yDh5qPebTqRmCJcSMPI/view?usp=sharing
