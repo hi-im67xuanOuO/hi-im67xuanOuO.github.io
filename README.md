@@ -13,9 +13,9 @@
 ### SEO評分成果(球來就打)：93分
 
 
-![SEO評分成果1](https://github.com/hi-im67xuanOuO/chinghsuan.github.io/blob/master/img/SEO%E7%B6%B2%E7%AB%99%E8%A9%95%E5%88%86%E6%88%90%E6%9E%9C1.png "SEO評分成果1")
-![SEO評分成果2](https://github.com/hi-im67xuanOuO/chinghsuan.github.io/blob/master/img/SEO%E7%B6%B2%E7%AB%99%E8%A9%95%E5%88%86%E6%88%90%E6%9E%9C2.png "SEO評分成果2")
+![SEO評分成果1](https://github.com/hi-im67xuanOuO/hi-im67xuanOuO.github.io/blob/master/img/SEO%E7%B6%B2%E7%AB%99%E8%A9%95%E5%88%86%E6%88%90%E6%9E%9C1.png "SEO評分成果1")
+![SEO評分成果2](https://github.com/hi-im67xuanOuO/hi-im67xuanOuO.github.io/blob/master/img/SEO%E7%B6%B2%E7%AB%99%E8%A9%95%E5%88%86%E6%88%90%E6%9E%9C2.png "SEO評分成果2")
 
 ## 視覺化解析-空汙數據分析與成果網站架設
-### **網站成果連結**：https://chinghsuan.github.io/www/index.html
+### **網站成果連結**：https://hi-im67xuanOuO.github.io/www/index.html
 ### 成果說明報告：https://github.com/hi-im67xuanOuO/SCU-Visual-Analytics-And-Web-Design/blob/main/report/%E8%A6%96%E8%A6%BA%E5%8C%96%E8%A7%A3%E6%9E%90%E6%96%87%E6%9C%AC.pdf
